@@ -1,8 +1,8 @@
-# locally
+﻿# locally
 
 > 本地生活小程序
 
-https://github.com/zce/weapp-locally
+https://github.com/xiazhizhou/locally.git
 
 ## Preview
 
